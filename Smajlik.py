@@ -1,11 +1,11 @@
-smajlik = input("Zadej smajlíka: \n")
+smajlik = input("Zadaj smajlíka: \n")
 if (smajlik == ":-)") or (smajlik == ":)"):
-    print("Tvůj smajlík je veselý")
+    print("Tvoj smajlík je veselý")
 elif (smajlik == ":-(") or (smajlik == ":("):
-    print("Tvůj smajlík je smutný")
+    print("Tvoj smajlík je smutný")
 elif (smajlik == ":-*") or (smajlik == ":*"):
-    print("Tvůj smajlík je zamilovaný")
+    print("Tvoj smajlík je posiela pusu")
 elif (smajlik == ":-P") or (smajlik == ":P"):
-    print("Tvůj smajlík je s vyplazeným jazykem")
+    print("Tvoj smajlík vyplazuje jazyk")
 else:
-    print("Tvůj smajlík je neznámy")
+    print("Tvoj smajlík je neznámy")
